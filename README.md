@@ -35,4 +35,4 @@ curl -X POST localhost:8080/sentiment -H 'Content-Type: application/json' -d '{"
 ```
 
 ## Branches
-`dev` (default)
+`main` (default)
