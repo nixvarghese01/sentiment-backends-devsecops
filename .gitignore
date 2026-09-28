@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+# Maven / Eclipse
+target/
+.classpath
+.project
+.settings/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
